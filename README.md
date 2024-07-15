@@ -12,3 +12,4 @@ Haarcascade_frontalface_default.xml : It is a pre-trained classifier file used w
 
 
 ![image](https://github.com/user-attachments/assets/e19aa5b3-ed49-4b31-ab29-5cedf588f1f6)
+
